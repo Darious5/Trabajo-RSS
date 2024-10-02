@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="trabajo.xsl"?> <!-- Link to the XSLT stylesheet -->
+<rss version="2.0">
+    <channel>
+        <!-- Channel information -->
+        <title>El Barranco de la Zorra News</title>
+        <link>https://www.granadahoy.com</link>
+        <description>Latest news and articles about El Barranco de la Zorra in Granada, Spain</description>
+        <image>
+            <title>El Barranco de la Zorra News</title>
+        </image>
+        <copyright>2024 Granada Hoy</copyright>
+        <webMaster>webmaster@granadahoy.com</webMaster>
+        
+        <!-- First news item -->
+        <item>
+            <title>Living in El Barranco de la Zorra</title>
+            <description>An overview of the community in El Barranco de la Zorra, highlighting its natural beauty and the ongoing efforts to maintain the area.</description>
+            <link>https://www.granadahoy.com/granada/barranco-zorra-living</link>
+            <enclosure url="https://www.granadahoy.com/media/el-barranco.jpg" type="image/jpeg"/>
+        </item>
+        
+        <!-- Second news item -->
+        <item>
+            <title>Hiking Routes Near El Barranco de la Zorra</title>
+            <description>Explore the best hiking routes around El Barranco de la Zorra, including the scenic Ruta de Los Bolos and Barranco de la Luna.</description>
+            <link>https://andaluciahiking.com/granada-hikes</link>
+            <enclosure url="https://andaluciahiking.com/media/hiking-routes.jpg" type="image/jpeg"/>
+        </item>
+        
+        <!-- Third news item -->
+        <item>
+            <title>Historical Significance of El Barranco de la Zorra</title>
+            <description>A look into the historical and geological importance of El Barranco de la Zorra, including its unique karst formations and marine fossils.</description>
+            <link>https://www.infobae.com/granada-historical-sites</link>
+            <enclosure url="https://www.infobae.com/media/historical-barranco.jpg" type="image/jpeg"/>
+        </item>
+        
+    </channel>
+</rss>
